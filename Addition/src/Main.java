@@ -1,4 +1,4 @@
-
+﻿
 public class Main {
 
 	int a=2;
@@ -8,7 +8,7 @@ public class Main {
 		Main obj = new Main();
 		int c= obj.a +obj.b;
 		
-		System.out.println("Addition result is = "+c);
+		System.out.println("a + b = "+c);
 				
 		
 
