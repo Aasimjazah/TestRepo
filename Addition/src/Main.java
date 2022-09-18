@@ -8,7 +8,7 @@ public class Main {
 		Main obj = new Main();
 		int c= obj.a +obj.b;
 		
-		System.out.println("a + b = "+c);
+		System.out.println("Addition of A and B is "+c);
 				
 		
 
