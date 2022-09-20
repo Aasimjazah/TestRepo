@@ -9,7 +9,7 @@ public class Main {
 		int c= obj.a +obj.b;
 		
 		
-		System.out.println("a + b = "+c+" in Test2 branch from Eclipse");
+		System.out.println("a + b = "+c+" in Changing in VS code");
 				
 		
 
