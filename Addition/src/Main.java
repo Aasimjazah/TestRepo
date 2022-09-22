@@ -9,8 +9,6 @@ public class Main {
 		int c= obj.a +obj.b;
 		
 		
-		System.out.println("a + b = "+c+" making changes from github");
-				
 		
 
 	}
